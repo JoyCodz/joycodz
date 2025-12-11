@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./mainBanner.gif" width="70%"  alt="Joy Santra Banner"/>
+  <img src="./mainBanner.gif" width="100%"  alt="Joy Santra Banner"/>
 </div>
 
 # 👋 Hi, I'm **Joy Santra**
