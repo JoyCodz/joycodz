@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-alpha-fawn-39.vercel.app?user=JoyCodz&theme=blueberry-duo)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-alpha-fawn-39.vercel.app?user=JoyCodz&theme=blueberry-duo)
 
 </div>
 
