@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyCodz&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats-alpha-fawn-39.vercel.app?user=JoyCodz&theme=blueberry-duo)](https://git.io/streak-stats)
 
 </div>
 
